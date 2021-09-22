@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Souvik
-- 👀 I’m passionate about designing and building innovative products
+- 👀 I’m passionate about designing and building useful software applications
 - 🌱 I’m learning about better ways to write efficient and scalable softwares
 - 📫 You can reach me via souvikghosh957@gmail.com
 
