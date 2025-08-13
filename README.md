@@ -2,8 +2,10 @@
 
 🚀 **Senior Software Engineer | Backend & Distributed Systems**  
 
-I design and build **scalable, reliable, and efficient software systems**.  
-My work spans backend development, distributed system design, and security engineering.  
+I design and build **scalable, reliable, and efficient software systems**.
+
+My work spans backend development, distributed system design, and security engineering.
+
 Outside of my professional role, I explore **cloud computing, AI for cybersecurity, and high-performance architectures** through side projects.  
 
 ---
@@ -40,9 +42,7 @@ Outside of my professional role, I explore **cloud computing, AI for cybersecuri
 ---
 
 ## 🛠 Side Projects
-- **[Anomalyze](https://anomalyze.in)** — AI-powered cybersecurity threat intelligence system for real-time anomaly detection using Zeek logs, OpenSearch, and ML models.  
-- **Cloud-Native Security Scanner** — Lightweight scanner for cloud resources, built with Spring Boot and deployed on Kubernetes.  
-
+- **[Anomalyze](https://github.com/souvikghosh957/anomalyze)** — AI-powered cybersecurity threat intelligence system for real-time anomaly detection using Zeek logs, OpenSearch, and ML models.
 ---
 
 ## 📫 Contact
