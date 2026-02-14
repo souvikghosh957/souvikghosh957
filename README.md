@@ -44,4 +44,5 @@ Advanced system design for large-scale platforms · Java concurrency & performan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-ghosh-13ab6412b)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/souvik_ghosh975)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:souvikghosh957@gmail.com)
+
+📧 **[souvikghosh957@gmail.com](mailto:souvikghosh957@gmail.com)**
