@@ -10,7 +10,7 @@ Passionate about using AI to strengthen cybersecurity.
 
 ## What I'm Building
 
-### 🔒 [Anomalyze Engine](https://github.com/souvikghosh957/anomalyze)
+### 🔒 [Anomalyze Engine](https://github.com/souvikghosh957/anomalyze-engine)
 
 AI-powered platform that detects unusual patterns in network traffic in real time.
 
