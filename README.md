@@ -18,7 +18,7 @@ AI-powered platform that detects unusual patterns in network traffic in real tim
 
 ### 🛡️ [Secret Sanitizer](https://github.com/souvikghosh957/secret-sanitizer-extension)
 
-Chrome extension that automatically hides secrets before pasting into AI chats. Fully local and private.
+Chrome extension that automatically hides secrets before pasting into AI chats. Fully local and open-source.
 
 ---
 
