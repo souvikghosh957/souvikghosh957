@@ -10,7 +10,7 @@ I care about systems that are fast, correct, and private by default.
 
 ## 🚀 What I'm Building
 
-### 🛡 [Secret Sanitizer](https://github.com/souvikghosh957/secret-sanitizer-extension)
+### 🥷 [Secret Sanitizer](https://github.com/souvikghosh957/secret-sanitizer-extension)
 A Chrome extension that detects and masks secrets — API keys, passwords, tokens, and more — before they leave your machine. Fully local, zero telemetry, open source. Because your credentials shouldn't end up in someone else's training data.
 
 ### 🦉 [SurpriseSage](https://github.com/souvikghosh957/SurpriseSage)
